@@ -97,7 +97,9 @@ function cumleKur(
   return birinci + ikinci + ucuncu + dorduncu + besinci;
 }
 
-/* (Oto test yok) cumleKur fonksiyonuna yalnızca 1 parametre göndererek "Hello World!" stringini elde edin, 
+//benim notum
+
+/* (Oto test yok) cumleKur fonksiyonuna yalnızca 1 parametre göndermek suretiyle "Hello World!" stringini elde edin, 
 sonucu konsolde gözlemleyin */
 
 /* (Oto test yok) cumleKur fonksiyonuna yalnızca 2 parametre göndererek "Hello World!" stringini elde edin, 
